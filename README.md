@@ -6,5 +6,5 @@ The basic source language is able to computer arithmetic operations of integer a
 # Instructions for running
 1. Install a Java IDE (e.g. IntelliJ)
 2. Download all the files as a project folder and use IDE to add the folder as a project.
-3. Execute the MainParser 
+3. Execute the MainParser file within folder "src"
 
